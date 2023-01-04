@@ -1,0 +1,16 @@
+.fr{
+    background-color: orange ;
+    height: 100vh;
+    width: 100%;
+}
+.fru{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    margin: 2%;
+    border-radius: 20px;
+}
+.fru1{
+    height: 70%;
+    width: 70%;
+}

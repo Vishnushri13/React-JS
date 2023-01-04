@@ -1,0 +1,73 @@
+[
+    {
+        "Name":"Chocolate ice cream",
+        "Image":"http://www.yummyfoodrecipes.in/resources/picture/org/Tasty-Chocolate-Ice-Cream.jpg",
+        "Description":"Chocolate Ice Cream is a delightful lip-smacking dessert with a refreshing, rich and chocolaty flavor. This dessert is creamy, delicious dessert which you can easily prepare at home. This chocolate ice cream is an amazing dessert recipe perfect for this summer.",
+        "Price":"200",
+        "Star": 3.5
+    },
+    {
+        "Name":"Strawberry ice cream",
+        "Image":"https://tiimg.tistatic.com/fp/1/007/709/fresh-tasty-and-mouthwatering-yummy-delicious-sweet-strawberry-ice-cream-636-w300.jpg",
+        "Description":"Strawberry ice cream is a flavor of ice cream made with strawberry or strawberry flavoring. It is made by blending in fresh strawberries or strawberry flavoring with the eggs, cream, vanilla and sugar used to make ice cream. ",
+        "Price":"300",
+        "Star":4.5
+    },
+    {
+        "Name":"Blue moon ice cream",
+        "Image":"https://i.pinimg.com/736x/a4/67/17/a46717613e7b13ed80e7509445a98d4e.jpg",
+        "Description":"Blue moon is an ice cream flavor with bright blue coloring, available in the Upper Midwest of the United States. Multiple cities in the region claim to be the originator, with the popular theories including Milwaukee, Wisconsin and Ludington, Michigan.",
+        "Price":"350",
+        "Star":3.0
+    },
+    {
+        "Name":"Cheese ice cream",
+        "Image":"https://www.biggerbolderbaking.com/wp-content/uploads/2022/06/Straw-Cheesecake-2-Ingredient-Ice-cream-scaled.jpg",
+        "Description":"Queso ice cream, also called keso ice cream or cheese ice cream, is a Filipino ice cream flavor prepared using cheddar cheese. It is one of the most common ice cream flavors of the traditional sorbetes ice cream (usually dyed bright yellow), and is commonly served on with scoops of ube, vanilla, and chocolate ice cream in one cone.",
+        "Price":"400",
+        "Star":3.5
+    },
+    {
+        "Name":"Beer ice cream",
+        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Beer_ice_cream_and_tart.jpg/1200px-Beer_ice_cream_and_tart.jpg",
+        "Description":"Beer ice cream is a type of ice cream prepared using beer as an ingredient. Beer ice cream prepared using darker beers typically has a more distinct flavor compared to that prepared using lighter beers.",
+        "Price":"250",
+        "Star":4.0
+    },
+    {
+        "Name":"Cinnamon apple ice cream",
+        "Image":"https://zestedlemon.com/wp-content/uploads/5-Minute-Cinnamon-Apple-Ice-Cream-Topping-3.jpg",
+        "Description":"Cinnamon is a spice obtained from the inner bark of several tree species from the genus Cinnamomum. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines, sweet and savoury dishes, breakfast cereals, snack foods, bagels, teas, and traditional foods. ",
+        "Price":"375",
+        "Star":4.5
+    },
+    {
+        "Name":"Cookies and cream",
+        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mint_chocolate_chip_ice_cream_from_flower_years_bar.jpg/1200px-Mint_chocolate_chip_ice_cream_from_flower_years_bar.jpg",
+        "Description":"Cookies and cream (or cookies 'n cream) is a variety of ice cream, milkshake and other desserts that includes chocolate sandwich cookies, with the most popular version containing hand or pre-crumbled cookies from Nabisco's Oreo brand under a licensing agreement.",
+        "Price":"400",
+        "Star":4.0
+    },
+    {
+        "Name":"Grape ice cream",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikw7fX8mKQjvIbjCNABzVG9-DWmlQCyO4QZaLbKqJ0DpabVs6xAiOzPSSbQWM1AdYPB8&usqp=CAU",
+        "Description":"There's no better summer dessert than this tasty grape ice cream! Prepared with vanilla ice cream, ice cubes, grape juice, cow’s milk, and cream, this easy sweet treat is a great cooking project to do with the kids. Creamy and packed with flavor, this refreshing grape ice cream will become your go-to frozen dessert for hot weather days.",
+        "Price":"450",
+        "Star":3.0
+    },
+    {
+        "Name":"Halva ice cream",
+        "Image":"https://drizzleanddip.com/wp-content/uploads/2012/02/MG_7415-copy.jpg",
+        "Description":"Halvah ice cream is a Middle Eastern variation of ice cream which is made of sesame Halva, tahini, eggs, cream, and sugar, and usually topped with pistachios and Silan (date syrup). It has been compared to Snickers ice cream.",
+        "Price":"350",
+        "Star":3.5
+    },
+    {
+        "Name":"Mango ice cream",
+        "Image":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Mango_Ice_cream_at_Molave_Milk_Station.jpg",
+        "Description":"The Ice Cream cultivar was discovered in Trinidad and Tobago,[1] and was later brought to the United States by Maurice Kong of the Rare Fruit Council International and introduced via Florida.",
+        "Price":"250",
+        "Star":4.5
+    }
+
+]

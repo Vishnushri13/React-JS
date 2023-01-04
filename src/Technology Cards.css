@@ -1,0 +1,23 @@
+.cards1{
+    height: 100px;
+    float:right;
+}
+.card1{
+    border-top: 3px solid red ;
+    border-radius: 15px;
+}
+.card2{
+    border-top: 3px solid rgb(23, 165, 221) ;
+    border-radius: 15px;
+}
+.card3{
+    border-top: 3px solid green ;
+    border-radius: 15px;
+}
+.card4{
+    border-top: 3px solid yellow ;
+    border-radius: 15px;
+}
+.nam8{
+    background-color: rgba(127, 255, 212, 0.356);
+}

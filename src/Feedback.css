@@ -1,0 +1,11 @@
+.fe{
+    background-color: rgb(168, 122, 168);
+    height: 100vh;
+    width: 100%;
+}
+.fee{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}

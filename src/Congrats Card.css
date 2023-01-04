@@ -1,0 +1,17 @@
+.Cd{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    background-size:cover;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+.Cd1{
+    border-radius: 30px;
+    background-color: aqua;
+    height: 80%;
+    width: 40%;
+    position:absolute;
+    left: 30%;
+
+}
